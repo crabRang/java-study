@@ -1,6 +1,6 @@
 package operator.ex;
 
-public class OperattionEx1 {
+public class OperationEx1 {
     public static void main(String[] args) {
         /*
         문제1.
